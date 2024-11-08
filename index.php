@@ -12,8 +12,8 @@
     </header>
 
     <div class="container">
-        <a href="./exer1.php">Exercício 1</a>
-        <a href="./#">Exercício 2</a>
+        <a href="./exer1Web2/index.php">Exercício 1</a>
+        <a href="./exer2Web2/index.php">Exercício 2</a>
         <a href="./exer1.php">Exercício 3</a>
     </div>
 
